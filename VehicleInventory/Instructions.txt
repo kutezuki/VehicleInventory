@@ -1,0 +1,32 @@
+Topsoft Nation - VehicleInventory App
+
+A client asks you to impelment a small app that allows them to manage a number of vehicles they
+have in there fleet. They ask for the following requirements
+
+Design Requirements
+
++ The app must be able to add, update, delete, list vehicles from base
++ Car Information must include the following fields
+    Make
+    Model
+    Year
+    VIN #
+
++ You must include the following setup in your project
+   a) Service Layer - This is the top layer an api layer would supply the information
+   b) Business Logic - This is where all the business logic should be for the application
+   c) Repository - This is where all the data will be pulled from. You can make fake data or
+   use an in-memory database if you want too.
+   d) Models - Where all your model objects should go.
+
++ You must have unit test at least on the business class
+
+UI: Console App Approach
++ If you decide to go with a Console App then just put code to call your methods and print
+out your results.
+
+Bonus Points - These are bonus points if you able to do these along with the project.
++ In-Memory: Adding an 
++ UI: Add an actual web UI instead of a console print out of the result
++ API: Add an actual API service to be called with this application
++ Unit Tests: 100% Unit test coverage across your code.

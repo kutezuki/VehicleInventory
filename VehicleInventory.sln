@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleInventory", "VehicleInventory\VehicleInventory.csproj", "{E129CE3E-89E7-474E-936F-60D59A5DE045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleInventory.Tests", "VehicleInventory.Tests\VehicleInventory.Tests.csproj", "{46E19A68-5B8C-4F69-9849-25B38E784045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E129CE3E-89E7-474E-936F-60D59A5DE045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E129CE3E-89E7-474E-936F-60D59A5DE045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E129CE3E-89E7-474E-936F-60D59A5DE045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E129CE3E-89E7-474E-936F-60D59A5DE045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E19A68-5B8C-4F69-9849-25B38E784045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E19A68-5B8C-4F69-9849-25B38E784045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E19A68-5B8C-4F69-9849-25B38E784045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E19A68-5B8C-4F69-9849-25B38E784045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDA93010-29B9-4EE8-B576-29BF1223B748}
+	EndGlobalSection
+EndGlobal
